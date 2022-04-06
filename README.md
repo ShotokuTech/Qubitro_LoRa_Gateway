@@ -21,4 +21,4 @@ https://www.youtube.com/playlist?list=PLVPBipeObwMN3WIwFWOQ2esviKvBcS7Qb
 Open in UIFlow:
 https://flow.m5stack.com/
 
-I made a LoRa Gateway for Qubitro with M5Stack UIFlow https://youtu.be/yyrZrP6KDZs
+I Made a LoRa Gateway for Qubitro with M5Stack UIFlow https://youtu.be/yyrZrP6KDZs
