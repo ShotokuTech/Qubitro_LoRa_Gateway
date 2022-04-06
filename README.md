@@ -22,4 +22,4 @@ Open in UIFlow:
 https://flow.m5stack.com/
 
 I Made a LoRa Gateway for Qubitro with M5Stack UIFlow https://youtu.be/yyrZrP6KDZs
-![](https://github.com/ShotokuTech/Qubitro_LoRa_Gateway/blob/main/qubitro%20lora%20gateway.png)
+![](https://github.com/ShotokuTech/Qubitro_LoRa_Gateway/blob/main/qubitro%20lora%20gateway%20ii.png)
